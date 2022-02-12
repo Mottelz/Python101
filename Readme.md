@@ -13,11 +13,12 @@ The code used in some videos about the basics of programming covered in Python.
 - If elif else 
 - Lists
 - Loops
+- Built-in functions
+- Version control (GitHub)
 
 ## To Do
-- Built-in functions
 - functions
 - classes
 - overriding built in operators and functions
-- Version control (GitHub)
 - Errors and error handling
+- Libraries 
