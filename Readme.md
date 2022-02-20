@@ -15,10 +15,12 @@ The code used in some videos about the basics of programming covered in Python.
 - Loops
 - Built-in functions
 - Version control (GitHub)
+- Functions
+- Classes
+- Overriding built in operators and functions
+
 
 ## To Do
-- functions
-- classes
-- overriding built in operators and functions
 - Errors and error handling
 - Libraries 
+- File I/O
