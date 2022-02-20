@@ -18,9 +18,8 @@ The code used in some videos about the basics of programming covered in Python.
 - Functions
 - Classes
 - Overriding built in operators and functions
-
-
-## To Do
+- Libraries
+- F-strings
 - Errors and error handling
-- Libraries 
 - File I/O
+- Debugging in PyCharm
